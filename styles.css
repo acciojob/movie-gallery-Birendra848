@@ -1,2 +1,19 @@
+.container-fluid {
+	padding: 20px;
+}
 
-/* Your CSS Code here. */
+.row {
+	margin-bottom: 20px;
+}
+
+.col-md-1,
+.col-md-2,
+.col-md-4,
+.col-md-12 {
+	padding: 0;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
